@@ -14,10 +14,10 @@ We are going to solve the 2048 game using different AI algorithms and going to c
 
 ## Team Members
 * Sai Likith Sarabu
-* Siri Chandana Koduru
-* Sowmya Sri Indukuri
-* Sree Vandana Nadipalli
-* Swetha Venkatesan
+* [Siri Chandana Koduru](https://github.com/sirikoduru24)
+* [Sowmya Sri Indukuri](https://github.com/sowmya-indukuri)
+* [Sree Vandana Nadipalli](https://github.com/Sree-Vandana)
+* [Swetha Venkatesan](https://github.com/swet09)
 
 
 ## References 
