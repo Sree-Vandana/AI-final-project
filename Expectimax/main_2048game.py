@@ -134,5 +134,5 @@ if __name__ == '__main__':
     saveToFile("step512.txt", stepCount_512Arr)
     saveToFile("step1024.txt", stepCount_1024Arr)
     saveToFile("step2048.txt", stepCount_2048Arr)
-    saveToFile("step4096.txt", stepCount_4096Arr)
-    saveToFile("step4096.txt", gameMaxValues)
+    # saveToFile("step4096.txt", stepCount_4096Arr)
+    saveToFile("maxValuesList.txt", gameMaxValues)
