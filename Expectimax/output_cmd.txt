@@ -1,0 +1,500 @@
+------ Game Number:  1 ------
+- Game Over (max tile / max score): 4096.0
+     8     128    2048    4096  
+     4      16     512    1024  
+     2       4      64     128  
+     4      16       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  943
+
+------ Game Number:  2 ------
+- Game Over (max tile / max score): 8192.0
+     2       8      16    8192  
+     4      16      64       4  
+     8      64     256     512  
+     2       8     128       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1017
+
+------ Game Number:  3 ------
+- Game Over (max tile / max score): 1024.0
+     4       8     256     512  
+     2      32     128    1024  
+    16      64     512       2  
+     2       8      32      64  
+
+- GAME LOST -
+- NO 2048 -
+
+------ Game Number:  4 ------
+- Game Over (max tile / max score): 2048.0
+     2       4       2       4  
+     4      16      64      16  
+  2048     256     128       8  
+     2     512      32      16  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1216
+
+------ Game Number:  5 ------
+- Game Over (max tile / max score): 8192.0
+     2       8    1024       2  
+    16     256     512      16  
+    32      64      32    8192  
+     2       8       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1028
+
+------ Game Number:  6 ------
+- Game Over (max tile / max score): 4096.0
+     4       2       4       2  
+     2       8      16       8  
+     4      16     256     512  
+     2       4    2048    4096  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1003
+
+------ Game Number:  7 ------
+- Game Over (max tile / max score): 4096.0
+     2       8      32       4  
+     4      16     512      64  
+     2      32    2048    1024  
+   128    4096       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  969
+
+------ Game Number:  8 ------
+- Game Over (max tile / max score): 2048.0
+   128     256    1024    2048  
+    16      32      64     256  
+     2       8      32       8  
+     4       2       8       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1241
+
+------ Game Number:  9 ------
+- Game Over (max tile / max score): 2048.0
+     2      16     256    2048  
+    32     128    1024       2  
+     2      16      64     512  
+     4       8      32     256  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  971
+
+------ Game Number:  10 ------
+- Game Over (max tile / max score): 2048.0
+     8       2     128       2  
+     2     128      64       4  
+    16      32     512    1024  
+     2      16      64    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  931
+
+------ Game Number:  11 ------
+- Game Over (max tile / max score): 2048.0
+     2       8      32       2  
+    32     128       8       4  
+     4      32     256    1024  
+     2       8      16    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1088
+
+------ Game Number:  12 ------
+- Game Over (max tile / max score): 4096.0
+     4     128    2048       2  
+     2      64     512    4096  
+    16      32     256    1024  
+     4       2       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1094
+
+------ Game Number:  13 ------
+- Game Over (max tile / max score): 2048.0
+    64     128     512       2  
+    32      64     256    2048  
+     2      32       8    1024  
+     8       4       2       8  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  976
+
+------ Game Number:  14 ------
+- Game Over (max tile / max score): 2048.0
+     2    1024    2048       4  
+     4      16     512     256  
+     8      32      64      32  
+     4      16      32       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  969
+
+------ Game Number:  15 ------
+- Game Over (max tile / max score): 4096.0
+     2       4      16     256  
+     4      32     128     512  
+    16     256    1024       2  
+     2       8      64    4096  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1016
+
+------ Game Number:  16 ------
+- Game Over (max tile / max score): 2048.0
+     2      16       4       2  
+     4       8      32       8  
+    16      64    1024     256  
+    32     128     512    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1044
+
+------ Game Number:  17 ------
+- Game Over (max tile / max score): 2048.0
+  2048    1024     128      16  
+   256     512      32       8  
+    32     128      16       2  
+     2       8       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  931
+
+------ Game Number:  18 ------
+- Game Over (max tile / max score): 2048.0
+  2048     512      32       2  
+  1024     128      16       4  
+     2     512      64       8  
+   128      16       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  950
+
+------ Game Number:  19 ------
+- Game Over (max tile / max score): 2048.0
+     2       8      16       4  
+     4     128     256       8  
+    16      64     128    1024  
+     2      32    2048       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  975
+
+------ Game Number:  20 ------
+- Game Over (max tile / max score): 2048.0
+     2      16       2    2048  
+     4      32     128    1024  
+    16      64     512       2  
+     4       2       4      32  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  998
+
+------ Game Number:  21 ------
+- Game Over (max tile / max score): 4096.0
+  4096     128       8       2  
+  1024      64      32       4  
+   256      32       4       8  
+     2      64      16       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  974
+
+------ Game Number:  22 ------
+- Game Over (max tile / max score): 512.0
+    64     256     512       2  
+    32      64     128     256  
+     8      32      16      64  
+     2       4       2       8  
+
+- GAME LOST -
+- NO 2048 -
+
+------ Game Number:  23 ------
+- Game Over (max tile / max score): 4096.0
+     2    4096       2       4  
+     4      16      64    1024  
+    16     128     256     512  
+     4       8       2      16  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1014
+
+------ Game Number:  24 ------
+- Game Over (max tile / max score): 2048.0
+     4      32     128       2  
+     8      16      64     256  
+     2      32     128     512  
+     4      16      64    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1009
+
+------ Game Number:  25 ------
+- Game Over (max tile / max score): 2048.0
+  2048    1024       4       2  
+    32     128     512     128  
+     8      16      32       8  
+     2       4       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  980
+
+------ Game Number:  26 ------
+- Game Over (max tile / max score): 2048.0
+     2      32       8       2  
+   128      64      16       4  
+   512       8      64       8  
+  2048    1024     512       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1028
+
+------ Game Number:  27 ------
+- Game Over (max tile / max score): 4096.0
+     2       4       2       4  
+    16       2      64       8  
+  2048     256     512      32  
+     2       8       4    4096  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1127
+
+------ Game Number:  28 ------
+- Game Over (max tile / max score): 4096.0
+     2       4       2       4  
+     4      64      16       8  
+   256     128     512     128  
+  4096    1024       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  951
+
+------ Game Number:  29 ------
+- Game Over (max tile / max score): 2048.0
+     2       4       8       2  
+     8      16      64      16  
+  2048    1024     256     128  
+     2       8     512       8  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1124
+
+------ Game Number:  30 ------
+- Game Over (max tile / max score): 4096.0
+     2       4      16       2  
+     4      64      32      16  
+  2048     256      16       2  
+  4096    1024     128       8  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  976
+
+------ Game Number:  31 ------
+- Game Over (max tile / max score): 4096.0
+    64      32       8       2  
+   256      64      16       4  
+     2    1024     128      32  
+  4096      64      16       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  962
+
+------ Game Number:  32 ------
+- Game Over (max tile / max score): 1024.0
+     8       2       4       2  
+     2      16      32       8  
+    32     128     256     128  
+     2     512    1024     512  
+
+- GAME LOST -
+- NO 2048 -
+
+------ Game Number:  33 ------
+- Game Over (max tile / max score): 4096.0
+  4096    2048       4       2  
+   256      64     256      64  
+    64      32      16       4  
+     2       8       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1006
+
+------ Game Number:  34 ------
+- Game Over (max tile / max score): 4096.0
+     2       8      32      64  
+     4      64     256       2  
+    16      32     128    1024  
+     4      64     256    4096  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1269
+
+------ Game Number:  35 ------
+- Game Over (max tile / max score): 4096.0
+  4096       4       8       4  
+     8      32      64      16  
+   256     128       8      32  
+     2       4     512       8  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1001
+
+------ Game Number:  36 ------
+- Game Over (max tile / max score): 2048.0
+     2     256    2048       2  
+     4      64     128    1024  
+    16      32      64     512  
+     8      16      32       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1173
+
+------ Game Number:  37 ------
+- Game Over (max tile / max score): 4096.0
+     2      16      64    4096  
+     4      32     256     512  
+     8      16     128     256  
+     2       8      32     128  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1186
+
+------ Game Number:  38 ------
+- Game Over (max tile / max score): 2048.0
+     2    2048    1024       2  
+   512      32      64       8  
+    16     128      16       2  
+     4       2     256      16  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  969
+
+------ Game Number:  39 ------
+- Game Over (max tile / max score): 2048.0
+     4      64      16       2  
+     2       4     128       4  
+    16     256      16       2  
+  2048    1024       2       8  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1006
+
+------ Game Number:  40 ------
+- Game Over (max tile / max score): 4096.0
+     2       8       2    4096  
+     4      16      64    1024  
+    16      64     256     512  
+     2       4       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1016
+
+------ Game Number:  41 ------
+- Game Over (max tile / max score): 2048.0
+     4       2      16       2  
+     2       4      32      64  
+     4      64     512     128  
+     2     256    1024    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  981
+
+------ Game Number:  42 ------
+- Game Over (max tile / max score): 1024.0
+     2       8      16       4  
+     4      32      64     256  
+     2       8     128    1024  
+     4      32     512       2  
+
+- GAME LOST -
+- NO 2048 -
+
+------ Game Number:  43 ------
+- Game Over (max tile / max score): 4096.0
+    64     128    1024    4096  
+    16      64     128      64  
+     8      16      32       4  
+     2       4       8       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  978
+
+------ Game Number:  44 ------
+- Game Over (max tile / max score): 4096.0
+  4096      32       8       2  
+     8     128      32       8  
+  1024     512       8       2  
+     2       4      32       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1091
+
+------ Game Number:  45 ------
+- Game Over (max tile / max score): 2048.0
+     2     512    1024    2048  
+    64     128      64      32  
+     8      32      16       4  
+     2       8       4       2  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  972
+
+------ Game Number:  46 ------
+- Game Over (max tile / max score): 4096.0
+     2       4      64       2  
+    32     128      16       4  
+    16      64      32       8  
+     2       8    2048    4096  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  974
+
+------ Game Number:  47 ------
+- Game Over (max tile / max score): 4096.0
+     2       4       8       4  
+    32     256      64       2  
+   128     512    1024      16  
+     8       2    4096    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  998
+
+------ Game Number:  48 ------
+- Game Over (max tile / max score): 2048.0
+     2     256    1024    2048  
+     8      32     256     512  
+     2      16      32       8  
+     4       8       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  961
+
+------ Game Number:  49 ------
+- Game Over (max tile / max score): 2048.0
+     2       8    2048     256  
+     4      16    1024     128  
+    16     128       8       2  
+     2      16       2       4  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1038
+
+------ Game Number:  50 ------
+- Game Over (max tile / max score): 2048.0
+     2      16       4       2  
+    16      64      32       8  
+   128     256      64      16  
+     4     512    1024    2048  
+
+- GAME WON -
+- Step at which 1st 2048 occurred:  1006
+
